@@ -6,4 +6,4 @@ if a > b:
 elif b > a:
     print("b больше, чем a")
 else:
-    priny("a равнр b")
+    priny("a равно b")
